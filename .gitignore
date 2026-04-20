@@ -1,0 +1,15 @@
+# 忽略数据和权重（最重要！）
+data
+datasets/
+experiments/
+experiments_v2/
+results/
+*.pth
+*.log
+
+# 忽略系统文件
+__pycache__/
+.vscode/
+.DS_Store
+
+temp/
