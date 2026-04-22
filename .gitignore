@@ -3,6 +3,7 @@ data
 datasets/
 experiments/
 experiments_v2/
+experiments_v3_gan/
 results/
 pretrained_weights/
 *.pth
