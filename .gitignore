@@ -4,6 +4,7 @@ datasets/
 experiments/
 experiments_v2/
 results/
+pretrained_weights/
 *.pth
 *.log
 
